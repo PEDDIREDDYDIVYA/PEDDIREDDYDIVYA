@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PEDDIREDDYDIVYA
+- 👋 Hi, I’m DIVYA PEDDIREDDY
 - 👀 I’m interested in Python,Java,Angular,C programming
 - 🌱 I’m currently learning Java Advanced Concepts
 - 💞️ I’m looking to collaborate on ...
